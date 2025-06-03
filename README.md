@@ -97,8 +97,9 @@
 
   <section class="contact">
     <h2>Contact</h2>
-    <p>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-    <p>📱 Instagram: <a href="https://instagram.com/yourhandle">@yourhandle</a></p>
+    <p>📧 Email: <a href="mailto:your.email@exampl.com">your.seshadevdas41@gmail.com</a></p>
+    <p>📱 Instagram: <a href="https://instagram.com/yourhandle">@Iseshadev</a></p>
+     <p>📱 Mobile:+91 6371469140</a></p>
   </section>
 
   <footer>
